@@ -1,0 +1,2 @@
+# otomasyon-dev
+otomasyon ödev
